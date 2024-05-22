@@ -1,1 +1,1 @@
-i am learning git right now, but i have not deployed  my heroku app
+i am learning git right now, but i have not deployed  my heroku app.Heroku is actually a great place to deploy yoyr app. it way better compared to github pages!! 
